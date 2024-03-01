@@ -20,3 +20,5 @@
         5.論壇管理: 顯示訂單資料、提供管理者更改文章和留言狀態，如會員會因文章禁用而被間接停權;  
                    程式:service->DashboardForumService及controller->DashboardForumController  
 
+        *管理功能接包含搜尋工具及分頁功能
+
