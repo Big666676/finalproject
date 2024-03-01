@@ -1,5 +1,8 @@
 # 期末專題-遊戲社群及購物平台
 
+下方為負責功能的簡報  
+[專題負責功能.pdf](https://github.com/Big666676/finalproject-backend/files/14458863/default.pdf)
+
 負責功能為:  
 
         1.數據分析: 網頁營收分析圖表，幫助管理者視覺化觀看網站營收;  
@@ -17,6 +20,3 @@
         5.論壇管理: 顯示訂單資料、提供管理者更改文章和留言狀態，如會員會因文章禁用而被間接停權;  
                    程式:service->DashboardForumService及controller->DashboardForumController  
 
-
-下方為負責功能的簡報  
-[專題負責功能.pdf](https://github.com/Big666676/finalproject-backend/files/14458863/default.pdf)
