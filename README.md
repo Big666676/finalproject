@@ -1,7 +1,8 @@
 # 期末專題-遊戲社群及購物平台
 
 下方為負責功能的簡報  
-[專題負責功能.pdf](https://github.com/Big666676/finalproject-backend/files/14458863/default.pdf)
+[專題負責功能.pdf](https://github.com/Big666676/finalproject-backend/files/14458863/default.pdf)  
+前端gitHub連結：https://github.com/Big666676/finalproject-fronend
 
 負責功能為:  
 
